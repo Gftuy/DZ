@@ -1,5 +1,0 @@
-pip intall 
-
-
-fdsa
-helloadd
